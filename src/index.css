@@ -62,3 +62,8 @@ nav a:active {
 #about img {
   max-height: 50%;
 }
+
+h1{
+  padding-top: 5%;
+  margin-left: 100px;
+}
